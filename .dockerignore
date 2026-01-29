@@ -1,0 +1,17 @@
+__pycache__/
+
+venv/
+env/
+ENV/
+.venv
+
+artifacts/
+memory/
+*.log
+
+.git/
+.gitignore
+.pytest_cache/
+
+*.md
+!README.md
